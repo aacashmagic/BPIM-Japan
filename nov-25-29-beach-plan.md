@@ -47,7 +47,7 @@ In return, late November has clear skies, **Mt. Fuji views over the sea**, autum
 
 ### Sun 29 · Kamakura → Tokyo
 - **Great Buddha** (Kotoku-in, ¥300 · ₹180) and **Hase-dera** (¥400 · ₹240), with ocean views and **autumn leaves at their peak**.
-- **Komachi-dori** street food, then a walk on **Yuigahama beach** or **Yuigahama/Zaimokuza** with the surfers.
+- **Komachi-dori** street food, then a walk on **Yuigahama** or **Zaimokuza** beach with the surfers.
 - **JR to Tokyo** (~1h, ~¥950 · ₹580). Aim to leave by ~15:00 and you'll be in Tokyo by ~16:00–17:00.
 
 ---
