@@ -5,6 +5,35 @@
 
 ---
 
+## ✈️ Fixed dates: Wed 25 Nov (Haneda 15:30) → back in Tokyo by Sun 29 Nov evening
+
+You're coming back to Tokyo anyway (presumably to meet the BPIM group), so these four days go
+**west to Osaka, Kyoto and Nara**. Late November is **peak autumn-leaf season in Kyoto**, one of
+the most beautiful times to be there. Mainland beaches are out of season now, so leave beaches for later.
+
+**Base: one hotel in Namba, Osaka, for all 4 nights (25–28).** It's cheaper than Kyoto at peak leaf
+season, you never repack, it has the best nightlife, and Kyoto (30 min) and Nara (45 min) are easy day trips.
+
+| Day | Plan |
+|---|---|
+| **Wed 25** | Land 15:30. Allow about 1h for immigration and customs. Keikyu line to **Shinagawa** (~20 min), then the **Nozomi Shinkansen to Shin-Osaka** (~2h25m, ~¥14,700). Arrive around 20:00–20:30. Check in, then a late dinner and drinks in **Dotonbori** |
+| **Thu 26** | **Universal Studios Japan**: Super Nintendo World, and a weekday is the best day to go. Buy tickets and the **Express Pass or timed entry** in advance. Night: **Amerikamura** bars |
+| **Fri 27** | **Kyoto day:** **Fushimi Inari** at 7am → **Tofuku-ji** (famous autumn maples) → **Kiyomizu-dera** and the Higashiyama lanes → **Gion** at dusk → drinks in **Pontocho**. Check for autumn **night illuminations** (Kiyomizu-dera, Eikan-do). Return to Osaka |
+| **Sat 28** | **Nara** in the morning: bowing deer, Todai-ji's giant Buddha, red leaves in Nara Park. Afternoon in Osaka: **Den Den Town** (anime and retro games), **Kuromon Market**, and sunset at **Umeda Sky Building**. Saturday is the big night out in Namba |
+| **Sun 29** | Check out early. **Arashiyama** bamboo grove by 8am, **or** the **Nintendo Museum** in Uji if you win the ticket lottery. Leave **Kyoto Station by ~14:30** on the Shinkansen and reach Tokyo around 17:00 |
+
+**Book now:**
+- Osaka hotel. Late November is busy.
+- USJ ticket and Express Pass.
+- Nintendo Museum lottery, if you want it.
+- Shinkansen seats with the **SmartEX** app, especially the Sunday return.
+- A big suitcase needs the **oversized-baggage seat** reservation on the Shinkansen. Or send the bag to your Tokyo hotel by **takkyubin** (Yamato) from the Osaka hotel on the 28th, and travel light on the 29th.
+
+**Transport cost:** about ¥30k for the Tokyo ↔ Osaka round trip, plus ~¥1–2k per day for local trains.
+Skip the JR Pass unless you're doing more long trips after the 29th.
+
+---
+
 ## The route at a glance
 
 ```
