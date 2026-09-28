@@ -1,7 +1,16 @@
-# Japan Trip Plan
+# Japan Trip Plan: 25 Nov → 20 Dec 2026
 
 **Vibe:** beautiful sights · beaches · beer · anime · tech · nightlife · new experiences
-**Assumed:** first trip, ~14 days, mid-range budget. Adjust once dates and length are set.
+**Style:** as cheap as possible (hostels and capsules, buses and budget airlines, konbini and lunch sets)
+
+## The month at a glance
+
+| Dates | Where | What |
+|---|---|---|
+| Wed 25 → Sun 29 Nov | **Hokkaido** (Sapporo, Otaru, Jozankei) | Beer, seafood, onsen, first snow |
+| Sun 29 Nov → Sun 6 Dec | **Tokyo**: BPIM course | Mostly busy. Cheap evening outings nearby |
+| Sun 6 Dec pm → Sat 19 Dec | **The big loop**: Kyoto → Osaka → Hiroshima → Fukuoka → Okinawa → Tokyo | Temples, anime, food, nightlife, beaches, tech |
+| Sun 20 Dec | Fly home to India | |
 
 ---
 
@@ -49,98 +58,97 @@ One base means no extra transport and no repacking. Skip the pricey ryokan and d
 
 ---
 
-## The route at a glance
-
-```
-Tokyo (5 nights) → Fuji / Hakone (1–2) → Kyoto (3) → Osaka (2) → Okinawa (3, beach finale)
-```
-
-This hits all of it: Tokyo for anime, tech and nightlife; Fuji for the postcard views; Kyoto for
-temples and old Japan; Osaka for food and bars; Okinawa for proper tropical beaches. Fly home from
-Okinawa via Tokyo or Osaka, or fly Osaka → Naha (about 2h, often ¥8–15k on Peach or Jetstar).
+## 🏫 29 Nov – 6 Dec · Course week in Tokyo (free and cheap evenings)
+- **Tokyo Metropolitan Government Building** observatory in Shinjuku: a **free** night view of the city (and Fuji on clear mornings).
+- **Christmas illuminations**, all free: Roppongi Keyakizaka, Marunouchi, and Shibuya's "Blue Cave".
+- **Senso-ji** in Asakusa, lit up at night, free and without the crowds.
+- **Akihabara** after class: arcades, retro games, and figure shops.
+- **Omoide Yokocho and Golden Gai** in Shinjuku for cheap yakitori and tiny bars (Golden Gai bars often charge a ¥500–1,000 seat fee).
+- If a day frees up, go to **Kawaguchiko** for Mt. Fuji. December has the clearest Fuji views of the year. It's about ¥2,000 each way by highway bus from Shinjuku.
 
 ---
 
-## Day by day
+## 🗾 6 Dec (afternoon) → 19 Dec · The big loop (14 days)
 
-### Days 1–5 · Tokyo
+| Nights | Where | Why |
+|---|---|---|
+| 6 | 🚌 **Night bus** Tokyo → Kyoto | Saves a hotel night. ~¥4–8k (Willer and others) |
+| 7, 8 | **Kyoto** | Temples, the last autumn leaves, Nintendo Museum |
+| 9, 10, 11 | **Osaka** | USJ, anime, food, nightlife. Day trips to Nara and Himeji |
+| 12, 13 | **Hiroshima** | Peace Park, Miyajima's floating torii |
+| 14 | **Fukuoka** | Yatai street stalls, tonkotsu ramen, cheap flights to Okinawa |
+| 15, 16, 17 | **Okinawa** (Naha) | Beaches, islands, aquarium, Orion beer |
+| 18, 19 | **Tokyo** | Final anime, tech and shopping, then fly home on the 20th |
+
+### Day by day
 | Day | Plan |
 |---|---|
-| 1 | Land, get a Suica on your phone, then Shibuya: the Scramble, **Shibuya Sky** at sunset, izakaya dinner, and bars in Shibuya/Ebisu |
-| 2 | **Anime day:** Akihabara (arcades, figure shops, retro games at Super Potato), then **Nakano Broadway** (cheaper and nerdier). Evening: Shinjuku, **Omoide Yokocho** yakitori, **Golden Gai** micro-bars |
-| 3 | **Tech day:** **teamLab Planets** (Toyosu) or **teamLab Borderless** (Azabudai Hills), then Odaiba for the life-size **Unicorn Gundam** and the **Miraikan** science museum |
-| 4 | Asakusa (Senso-ji) early, then Harajuku/Omotesando. Afternoon: **Ghibli Museum** (Mitaka). Tickets go on sale on the 10th of the previous month and sell out fast. Evening: Roppongi or Shibuya clubs |
-| 5 | Day trip to **Kamakura + Enoshima**: Great Buddha, surf beaches, seafood. Or head to Ikebukuro for more anime (Sunshine City, Pokémon Center) |
+| **Sun 6** | Course ends. Take the night bus from Shinjuku (Busta) to Kyoto |
+| **Mon 7 · Kyoto** | Arrive early and drop your bags. **Fushimi Inari** (free, 24h), **Tofuku-ji**, then **Kiyomizu-dera** and the Higashiyama lanes. **Gion** at dusk. Cheap dinner at Nishiki Market or a ramen shop |
+| **Tue 8 · Kyoto** | **Arashiyama** bamboo grove at 8am (free), then the monkey park. Afternoon in **Uji**: the **Nintendo Museum** (enter the ticket lottery ahead) and matcha everything. Kyoto has 1-day bus passes (~¥700–1,100) |
+| **Wed 9 · Nara → Osaka** | **Nara** deer and **Todai-ji**, then on to Osaka (~¥800) and check in around Namba. Night in **Dotonbori** |
+| **Thu 10 · Osaka** | **Universal Studios Japan**, Super Nintendo World (a weekday). The ticket costs ¥8.6k+ and is the big splurge. Skip the Express Pass and arrive at opening |
+| **Fri 11 · Osaka** | **Himeji Castle**, Japan's most beautiful castle (~¥1,000 by JR local each way), **or** a Kobe beef lunch set. Evening: **Den Den Town** for anime and **Amerikamura** for Friday nightlife |
+| **Sat 12 · → Hiroshima** | **Highway bus** (~¥4–6k, ~5h) instead of the Shinkansen (~¥10k). Evening: **Peace Memorial Park** and Hiroshima-style **okonomiyaki** at Okonomimura |
+| **Sun 13 · Miyajima** | **Itsukushima's floating torii** (the JR ferry is ~¥200 and covered by Suica). Hike **Mt. Misen** for free instead of taking the ropeway, and eat grilled oysters |
+| **Mon 14 · → Fukuoka** | Highway bus (~¥4–5k, ~4.5h). Night: **yatai** street stalls in Nakasu and Tenjin, and **Hakata tonkotsu ramen** |
+| **Tue 15 · → Okinawa** | Budget flight **Fukuoka → Naha** (Peach or Jetstar, often **¥6–12k**). Walk **Kokusai-dori**, drink Orion beer and awamori |
+| **Wed 16 · Islands** | Ferry to the **Kerama Islands** (Tokashiki or Zamami, ~¥2,500–3,500 each way). Expect white sand and turquoise water. It's about 22 °C in December, so wear a wetsuit for snorkelling |
+| **Thu 17 · North Okinawa** | Bus to **Churaumi Aquarium** (whale sharks, ~¥2,200), **Emerald Beach**, and **Kouri Island** bridge views |
+| **Fri 18 · → Tokyo** | Budget flight **Naha → Tokyo** (~¥7–15k). **Skymark** to Haneda is best; cheaper flights to Narita are fine if your fare is cheaper overall. Evening in **Shibuya** (the Scramble, and Shibuya Sky if you're splurging) |
+| **Sat 19 · Tokyo** | **teamLab Planets** (~¥4k, book ahead), **Odaiba**'s giant Gundam (free), then last **tax-free shopping** in **Akihabara** and at Don Quijote. Farewell izakaya with nomihodai |
+| **Sun 20** | ✈️ Fly home |
 
-**Beer in Tokyo:** Yebisu Beer museum area (Ebisu), craft beer bars in Shibuya and Kanda,
-standing bars (*tachinomi*), and *nomihodai* (all-you-can-drink, about ¥1,500–2,500 for 90 min) at izakayas.
+**December weather:**
+- Kyoto, Osaka and Hiroshima: **3–12 °C**.
+- Okinawa: **17–22 °C**. It's great for beaches and walking, but only some people swim without a wetsuit. If you'd rather stay on the mainland, swap Okinawa for 3 more days split between Tokyo and Fuji/Hakone.
 
-### Days 6–7 · Mt. Fuji / Hakone
-- **Kawaguchiko** (Fuji Five Lakes): the classic Fuji views, the Chureito Pagoda, and lakeside onsen.
-- **or Hakone:** the loop by ropeway, pirate ship and switchback train, then a ryokan night with a
-  private onsen and kaiseki dinner. Book at least one ryokan night on this trip.
-- Fuji is often hidden in cloud. Check the forecast and swap days if you need to.
+### Transport strategy (cheapest)
+- **Skip the JR Pass.** The route mixes buses and flights, and a 7-day pass costs ¥50k.
+- **Night and highway buses:** Willer, JR Bus, and Nishitetsu for the Hiroshima → Fukuoka leg.
+- **Budget flights:** Peach, Jetstar, and Skymark. Put **all your stuff in one carry-on (7 kg)** to avoid bag fees.
+- **Seishun 18 Kippu:** unlimited JR local trains for 3 or 5 **consecutive** days (¥10,000 / ¥12,050). The winter season usually starts around 10 Dec. It only makes sense if you enjoy long slow train rides.
+- Put **Suica** on your phone. It works on local trains and buses nationwide.
 
-### Days 8–10 · Kyoto (+ Nara)
-- **Fushimi Inari** at sunrise, before the crowds. Hike past the first gates.
-- **Arashiyama** bamboo grove early, then Tenryu-ji and the monkey park.
-- Kiyomizu-dera and the Higashiyama lanes, then Gion at dusk.
-- **Nintendo Museum** (Uji, 15 min from Kyoto). Tickets are by **lottery**, so apply early on the official site.
-- Half-day in **Nara** to see the bowing deer and the giant Buddha at Todai-ji.
-- Beer: Kyoto has good craft brewers. Try the Pontocho alley bars.
+---
 
-### Days 11–12 · Osaka
-- **Dotonbori** neon and street food (takoyaki, okonomiyaki, kushikatsu). Osaka is the "eat until you drop" city.
-- **Universal Studios Japan** for **Super Nintendo World**. Buy an Express Pass or timed entry ahead.
-- **Den Den Town** is Osaka's Akihabara.
-- Nightlife: **Amerikamura** and **Namba**. Osaka people are the friendliest and most talkative in Japan,
-  so it's the easiest place to strike up conversations at bars.
-- Optional: the Asahi brewery tour in Suita (reserve ahead).
+## 💰 Budget for the 14-day loop (6–19 Dec)
+| | ¥ |
+|---|---|
+| Hostels and capsules (13 nights, ~¥2.5–4k; one night on the bus) | 35,000–50,000 |
+| Long-distance transport (night bus, 2 highway buses, 2 flights) | 30,000–45,000 |
+| Local transport and ferries | 12,000–18,000 |
+| Food and drinks (~¥3–4k/day) | 42,000–56,000 |
+| Attractions (USJ, teamLab, aquarium, Nintendo Museum, etc.) | 20,000–25,000 |
+| **Total** | **~¥140,000–195,000** (about US$950–1,300) |
 
-### Days 13–15 · Okinawa (beach finale)
-- Base in **Naha** or up north on the **Onna** coast.
-- Beaches: Emerald Beach, Manza, Sesoko, **Kerama Islands** by ferry (some of the clearest water in Asia, with sea turtles), and snorkelling at the **Blue Cave**.
-- **Churaumi Aquarium** has whale sharks.
-- Drink **Orion** beer and awamori on Kokusai-dori.
-- Beach season runs about May–October. Typhoon risk peaks Aug–Sep, so buy travel insurance.
+Add Hokkaido (~¥46–78k) and course-week spending for the whole month.
 
 ---
 
 ## Nightlife & meeting people
-- **Best areas:** Shibuya, Shinjuku (Golden Gai), and Roppongi (international crowd) in Tokyo; Namba and Amerikamura in Osaka.
-- **Dating apps work** (Tinder, Bumble, and Pairs, which is Japan's biggest). Language-exchange bars and
-  events (search Meetup) and social hostel bars are easy ways to meet locals and travellers.
-- Learning a few phrases (*kanpai*, *sumimasen*, *oishii*) goes a long way. Be respectful and low-pressure. Japan is fairly reserved.
-- ⚠️ **Scam warning:** **never follow street touts**, especially in **Kabukicho** and **Roppongi**. The
-  "pretty girl invites you to a bar" setup is a known scam that ends in huge bills, sometimes with drink spiking. Pick bars yourself and
-  check the price before you order.
-
----
+- **Best areas:** Shibuya, Shinjuku (Golden Gai), and Roppongi (international crowd) in Tokyo; Namba and Amerikamura in Osaka; Susukino in Sapporo; Nakasu in Fukuoka.
+- **Dating apps work** (Tinder, Bumble, and Pairs, which is Japan's biggest). Hostel bars and language-exchange events (search Meetup) are easy and free ways to meet locals and travellers.
+- A few phrases (*kanpai*, *sumimasen*, *oishii*) go a long way. Be respectful and low-pressure.
+- ⚠️ **Scam warning:** **never follow street touts**, especially in **Kabukicho**, **Roppongi** and **Susukino**.
+  The "pretty girl invites you to a bar" setup is a known scam that ends in huge bills, sometimes with drink spiking. Choose bars yourself and check prices first.
 
 ## Practical essentials
-- **Transport:** Since the 2023 price rise, the **JR Pass** usually **doesn't pay off** for a
-  Tokyo → Kyoto → Osaka one-way route. Buy Shinkansen tickets individually (SmartEX app). Put **Suica/ICOCA**
-  on your iPhone or Google Wallet for trains and konbini.
-- **Data:** get an eSIM before you land (Ubigi, Airalo, etc.).
-- **Money:** cards are widely accepted, but carry ¥20–30k in cash for small spots. 7-Eleven ATMs take foreign cards.
-- **Tax-free shopping** for purchases over ¥5,000 (bring your passport). Akihabara and Don Quijote are great for this.
-- **Book early:** Ghibli Museum, Nintendo Museum lottery, teamLab, USJ Express, and ryokan.
-- Fill in **Visit Japan Web** before arrival for faster immigration and customs.
-- **Rough daily budget (mid-range):** ¥15–25k/day excluding hotels. Hotels run ¥10–25k/night (business hotels are great value).
+- **Data:** get an eSIM before you land. A 30-day plan covers the whole trip.
+- **Money:** carry some cash for yatai, small ramen shops and shrines. 7-Eleven ATMs take foreign cards.
+- **Tax-free** on purchases over ¥5,000 (bring your passport). Save big shopping for the end of the trip.
+- **Book early:**
+  - Hokkaido flights.
+  - Nintendo Museum lottery.
+  - USJ ticket.
+  - teamLab.
+  - Night bus on 6 Dec.
+  - Okinawa flights.
+  - Hostels on weekends.
+- Fill in **Visit Japan Web** before arrival.
+- Luggage: use coin lockers, or ship big bags between hotels with **takkyubin** (~¥2–3k) so you can fly with carry-on only.
 
-## Best seasons
-| When | Why |
-|---|---|
-| Late Mar–early Apr | Cherry blossoms, huge crowds |
-| May–June | Warm, fewer crowds. Okinawa rainy season is roughly May–June |
-| Jul–Aug | Hot and humid, but festivals, fireworks and beach season |
-| **Oct–Nov** | **Best overall:** autumn colours, comfortable weather, Okinawa still swimmable into Oct |
-| Dec–Feb | Snow (Hokkaido, and Sapporo Beer Museum + Snow Festival in Feb), illuminations, cheaper |
-
----
-
-## Open questions (to tailor this)
-1. Dates and number of days?
-2. Budget level: backpacker, mid-range, or splurge?
-3. Solo or with friends?
-4. Theme parks: yes or no? Hokkaido (winter / Sapporo beer) instead of Okinawa?
+## Open questions
+1. Which airport is your 20 Dec flight home from, and what time? That decides where to sleep on the 19th.
+2. Okinawa beaches, or more mainland (Fuji/Hakone, Kanazawa, or snow in the Japanese Alps)?
+3. Which parts of the BPIM group's plans (from WhatsApp) should I merge in?
