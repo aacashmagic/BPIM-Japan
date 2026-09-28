@@ -5,32 +5,37 @@
 
 ---
 
-## ✈️ Fixed dates: Wed 25 Nov (Haneda 15:30) → back in Tokyo by Sun 29 Nov evening
+## ✈️ Fixed dates: Wed 25 Nov (Haneda 15:30) → back in Tokyo by Sun 29 Nov evening, in Hokkaido
 
-You're coming back to Tokyo anyway (presumably to meet the BPIM group), so these four days go
-**west to Osaka, Kyoto and Nara**. Late November is **peak autumn-leaf season in Kyoto**, one of
-the most beautiful times to be there. Mainland beaches are out of season now, so leave beaches for later.
+**What late November in Hokkaido is like:** it's between seasons. The autumn leaves are over, and ski
+resorts usually open in early December (a few may open late November if snow allows). Expect 0–5 °C
+and possibly the first snow. The upside is that you get **Sapporo's winter light-ups and Christmas
+market**, with **beer, seafood, onsen and snowy scenery**, and far fewer tourists than in peak season.
 
-**Base: one hotel in Namba, Osaka, for all 4 nights (25–28).** It's cheaper than Kyoto at peak leaf
-season, you never repack, it has the best nightlife, and Kyoto (30 min) and Nara (45 min) are easy day trips.
+**Nights:** Sapporo (25, 26, 27), then a **ryokan in Noboribetsu** (28), which is close to the airport for Sunday.
 
 | Day | Plan |
 |---|---|
-| **Wed 25** | Land 15:30. Allow about 1h for immigration and customs. Keikyu line to **Shinagawa** (~20 min), then the **Nozomi Shinkansen to Shin-Osaka** (~2h25m, ~¥14,700). Arrive around 20:00–20:30. Check in, then a late dinner and drinks in **Dotonbori** |
-| **Thu 26** | **Universal Studios Japan**: Super Nintendo World, and a weekday is the best day to go. Buy tickets and the **Express Pass or timed entry** in advance. Night: **Amerikamura** bars |
-| **Fri 27** | **Kyoto day:** **Fushimi Inari** at 7am → **Tofuku-ji** (famous autumn maples) → **Kiyomizu-dera** and the Higashiyama lanes → **Gion** at dusk → drinks in **Pontocho**. Check for autumn **night illuminations** (Kiyomizu-dera, Eikan-do). Return to Osaka |
-| **Sat 28** | **Nara** in the morning: bowing deer, Todai-ji's giant Buddha, red leaves in Nara Park. Afternoon in Osaka: **Den Den Town** (anime and retro games), **Kuromon Market**, and sunset at **Umeda Sky Building**. Saturday is the big night out in Namba |
-| **Sun 29** | Check out early. **Arashiyama** bamboo grove by 8am, **or** the **Nintendo Museum** in Uji if you win the ticket lottery. Leave **Kyoto Station by ~14:30** on the Shinkansen and reach Tokyo around 17:00 |
+| **Wed 25** | Land 15:30 at Terminal 3 and allow ~1h for immigration. Take the **free shuttle bus to domestic Terminal 1 or 2** (~15 min). Book a flight **HND → New Chitose (CTS) departing ~18:30–19:30** (1h35m, on JAL, ANA, AirDo or Skymark). Then the **JR Rapid Airport** train to Sapporo (~40 min, ~¥1,150). Late **miso ramen** at Ramen Yokocho in **Susukino** |
+| **Thu 26** | **Sapporo Beer Museum**, then all-you-can-eat **jingisukan** (grilled lamb) with all-you-can-drink beer at the **Sapporo Beer Garden**. In the evening, see the **White Illumination** and the **Munich Christmas Market** in **Odori Park** (these usually start in late November, so check dates). Take the **Mt. Moiwa ropeway** for one of Japan's best night views, then a night out in **Susukino**, the biggest nightlife district north of Tokyo |
+| **Fri 27** | **Otaru** day trip (~45 min by train): the canal, glassworks, the music box museum, the best sushi of your life, and **Otaru Beer**. Add the **Nikka Yoichi whisky distillery** (15 min further, reserve the tour). Back to Sapporo. Anime shopping in **Tanukikoji** |
+| **Sat 28** | Limited express to **Noboribetsu** (~1h10). See **Jigokudani ("Hell Valley")** with its steaming volcanic vents, then a **ryokan night** with an outdoor onsen and a kaiseki dinner. Soaking in hot water while it snows is a highlight |
+| **Sun 29** | Morning onsen, then train to **New Chitose** (~50 min). At the airport there's the **Ramen Dojo**, **Royce chocolate factory** and **Doraemon Sky Park**. **Fly ~12:00–13:00** and land at Haneda ~14:30, so you're in Tokyo by ~16:00. Leave a buffer, because snow can delay flights |
 
 **Book now:**
-- Osaka hotel. Late November is busy.
-- USJ ticket and Express Pass.
-- Nintendo Museum lottery, if you want it.
-- Shinkansen seats with the **SmartEX** app, especially the Sunday return.
-- A big suitcase needs the **oversized-baggage seat** reservation on the Shinkansen. Or send the bag to your Tokyo hotel by **takkyubin** (Yamato) from the Osaka hotel on the 28th, and travel light on the 29th.
+- **Flights.** The HND ↔ CTS route is one of the busiest in the world. It's about ¥10–25k one way if booked early.
+- **Avoid budget airlines that land at Narita.** Narita is far from central Tokyo. Check the bag fees too.
+- **Noboribetsu ryokan.** Popular ones fill up.
+- **Nikka Yoichi tour.** Needs a reservation.
 
-**Transport cost:** about ¥30k for the Tokyo ↔ Osaka round trip, plus ~¥1–2k per day for local trains.
-Skip the JR Pass unless you're doing more long trips after the 29th.
+**Pack:**
+- A warm coat, gloves and a hat.
+- **Shoes with grip.** Sapporo sidewalks turn icy.
+
+**Why Hokkaido over the Kyoto/Osaka option:**
+- Better for **beer, food, snow and onsen**.
+- Weaker for anime and tech. Save those for Tokyo from the 29th.
+- You'll miss Kyoto's peak autumn leaves.
 
 ---
 
