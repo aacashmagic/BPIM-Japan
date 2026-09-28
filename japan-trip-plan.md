@@ -103,12 +103,53 @@ One base means no extra transport and no repacking. Skip the pricey ryokan and d
 - Kyoto, Osaka and Hiroshima: **3–12 °C**.
 - Okinawa: **17–22 °C**. It's great for beaches and walking, but only some people swim without a wetsuit. If you'd rather stay on the mainland, swap Okinawa for 3 more days split between Tokyo and Fuji/Hakone.
 
-### Transport strategy (cheapest)
-- **Skip the JR Pass.** The route mixes buses and flights, and a 7-day pass costs ¥50k.
-- **Night and highway buses:** Willer, JR Bus, and Nishitetsu for the Hiroshima → Fukuoka leg.
-- **Budget flights:** Peach, Jetstar, and Skymark. Put **all your stuff in one carry-on (7 kg)** to avoid bag fees.
-- **Seishun 18 Kippu:** unlimited JR local trains for 3 or 5 **consecutive** days (¥10,000 / ¥12,050). The winter season usually starts around 10 Dec. It only makes sense if you enjoy long slow train rides.
-- Put **Suica** on your phone. It works on local trains and buses nationwide.
+### Transport: trains and passes vs buses
+
+**Short answer:** trains work, but the **nationwide JR Pass isn't worth it** for this route. A **regional pass**
+plus a couple of single tickets is the cheapest way to do it by train.
+
+**Rail legs, 6–14 Dec, bought as single tickets:**
+
+| Leg | Price (approx) |
+|---|---|
+| Tokyo → Kyoto (Shinkansen) | ~¥14,000 |
+| Kyoto ↔ Nara ↔ Osaka (local) | ~¥1,600 |
+| Osaka ↔ Himeji return (Special Rapid) | ~¥3,000 |
+| Osaka → Hiroshima (Shinkansen) | ~¥10,500 |
+| Hiroshima ↔ Miyajima (JR + JR ferry) | ~¥1,200 |
+| Hiroshima → Fukuoka (Shinkansen) | ~¥9,000 |
+| **Total** | **~¥39,000** |
+
+**The passes compared:**
+
+| Option | Price | Verdict |
+|---|---|---|
+| **JR Pass (nationwide)**, 7 days / 14 days | ¥50,000 / ¥80,000 | ❌ Costs more than single tickets (~¥39k), and it's useless for the Okinawa and Hokkaido flights |
+| **JR Kansai-Hiroshima Area Pass**, 5 consecutive days | ~¥17,000 | ✅ **Best pick.** Use it for **9–13 Dec**: Nara → Osaka, Himeji, Osaka → Hiroshima, and Miyajima. About ¥16k of rides, so it roughly breaks even, then any extra trip (Kobe, Kyoto) is free. It includes the Sanyo Shinkansen (not Nozomi) and the JR Miyajima ferry |
+| **JR Sanyo-San'in-Northern Kyushu Pass**, 7 days | ~¥26,000 | 🤔 Covers Kansai **all the way to Fukuoka**. Worth it if you'd rather not buy the Hiroshima → Fukuoka ticket separately |
+| **Hokuriku Arch Pass**, 7 days | ~¥30–35,000 | 🤔 Tokyo → **Kanazawa** → Kyoto/Osaka. Only if you want to add Kanazawa, one of Japan's prettiest cities |
+
+Prices are approximate, so check the current price on JR East / JR West before buying.
+
+**Recommended train plan (cheapest):**
+1. **6 or 7 Dec:** Tokyo → Kyoto on a single Shinkansen ticket. Book early on the **SmartEX** app for the "Hayatoku" discount.
+2. **7–8 Dec:** in Kyoto, use Suica and a bus day pass. No JR pass needed.
+3. **9–13 Dec:** **Kansai-Hiroshima Area Pass**.
+4. **14 Dec:** Hiroshima → Hakata single ticket (~¥9k).
+5. **15 & 18 Dec:** budget flights to Okinawa and back to Tokyo. No train can do these legs.
+
+**Trains or buses?** Buses (night bus plus 2 highway buses) cost ~¥14–19k in total. Trains cost ~¥40k.
+That's **~¥20–25k more for trains, but they save ~10 hours** and are much more comfortable. A good mix is to take the
+**night bus to Kyoto** (it also saves a hostel night) and use the **Kansai-Hiroshima pass** for the rest.
+
+⚠️ **Visa check:** JR tourist passes are only sold to people entering Japan as a **"Temporary Visitor"**. If your
+BPIM course puts you on a different visa status (for example training or study), you **can't** buy them. In that case, use single tickets or buses.
+
+**Other tips:**
+- Buy passes online or at major JR stations.
+- Put **Suica** on your phone for all local trains and buses.
+- On budget flights, keep to **one 7 kg carry-on** to avoid bag fees.
+- The **Seishun 18 Kippu** (unlimited JR local trains, 3 or 5 **consecutive** days for ¥10,000 / ¥12,050, winter season from ~10 Dec) is cheap but very slow. Osaka → Fukuoka takes about 10 hours on local trains.
 
 ---
 
