@@ -142,6 +142,24 @@ Prices are approximate, so check the current price on JR East / JR West before b
 That's **~¥20–25k more for trains, but they save ~10 hours** and are much more comfortable. A good mix is to take the
 **night bus to Kyoto** (it also saves a hostel night) and use the **Kansai-Hiroshima pass** for the rest.
 
+### Sleeping on the move to save hotel money
+- **Overnight trains are almost gone in Japan.** The Shinkansen doesn't run at night (roughly 6am–midnight). The only
+  regular sleeper is the **Sunrise Izumo/Seto** (Tokyo ↔ Okayama/Izumo/Takamatsu). Its cheapest "Nobinobi" carpet
+  berths cost ~¥15k+ (included with the nationwide JR Pass), sell out a month ahead, and don't stop at Kyoto or Osaka going west.
+  That's more than a night bus plus a hostel combined.
+- **Night buses are the real money-saver.** Two legs work for this route:
+  1. **6 Dec Tokyo → Kyoto** (~¥4–8k, already in the plan).
+  2. **11 Dec Osaka → Hiroshima** (~¥4–6k). It leaves after a Friday night out in Namba and arrives ~6am on the 12th.
+  Each saves one hostel night (~¥3k) *and* the Shinkansen fare. If you use both, **skip the Kansai-Hiroshima pass**, because
+  it no longer pays off. Buy single tickets for Nara, Himeji and Miyajima instead.
+- **Get seats that recline well.** Pick "3-row" independent seats (~¥1–2k more than 4-row). Bring an eye mask, earplugs, and a neck pillow.
+  Arrival is around 6am, so use a coin locker and a **sento** or **manga café shower** (~¥500–700) to freshen up.
+- **Other cheap sleeps:**
+  - **Manga/internet cafés** like Kaikatsu Club: a private booth with shower, ~¥2–3k overnight.
+  - **Capsule hotels** (~¥3–4k).
+  - Don't try to sleep in stations. Most close ~1am and staff will move you on.
+- Don't do more than 2 bus nights in a row. You'll be wrecked for sightseeing the next day.
+
 ⚠️ **Visa check:** JR tourist passes are only sold to people entering Japan as a **"Temporary Visitor"**. If your
 BPIM course puts you on a different visa status (for example training or study), you **can't** buy them. In that case, use single tickets or buses.
 
