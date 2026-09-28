@@ -5,37 +5,47 @@
 
 ---
 
-## ✈️ Fixed dates: Wed 25 Nov (Haneda 15:30) → back in Tokyo by Sun 29 Nov evening, in Hokkaido
+## ✈️ Fixed dates: Wed 25 Nov (Haneda 15:30) → back in Tokyo by Sun 29 Nov evening, in Hokkaido on a budget
 
-**What late November in Hokkaido is like:** it's between seasons. The autumn leaves are over, and ski
-resorts usually open in early December (a few may open late November if snow allows). Expect 0–5 °C
-and possibly the first snow. The upside is that you get **Sapporo's winter light-ups and Christmas
-market**, with **beer, seafood, onsen and snowy scenery**, and far fewer tourists than in peak season.
+**What late November in Hokkaido is like:** it's between seasons. The autumn leaves are over and
+ski season usually starts in December. Expect 0–5 °C and possibly the first snow. In return you get
+Sapporo's winter lights, beer, seafood, onsen, and lower prices than in peak season.
 
-**Nights:** Sapporo (25, 26, 27), then a **ryokan in Noboribetsu** (28), which is close to the airport for Sunday.
+### Getting there (the biggest cost)
+- **Best option: Skymark, Haneda (T1) ↔ New Chitose (CTS).** It's usually the cheapest airline from Haneda
+  and includes a checked bag. Book a ~19:00 departure on the 25th (1h35m). You'll need the free
+  shuttle bus from Terminal 3 to Terminal 1, about 15 min. AirDo is the other cheap Haneda option.
+- **Budget airlines (Peach, Jetstar) fly from Narita.** Base fares are lower, but add bag fees and ~¥1,500–3,000
+  plus 1–1.5h each way to reach Narita. After a 15:30 Haneda arrival, that makes the 25th tight. They only pay off if the fare is ¥5k+ cheaper.
+- Compare on Google Flights. Flights to Sapporo can drop to about **¥7–15k one way** if booked early. Don't pay ¥25k+ to JAL or ANA.
+- Airport ↔ Sapporo: JR Rapid Airport, about ¥1,150 and 40 min.
 
-| Day | Plan |
+### Where to sleep
+**Sapporo for all 4 nights (25–28) in a hostel or capsule hotel near Susukino or Odori**, about ¥2,500–4,500/night.
+One base means no extra transport and no repacking. Skip the pricey ryokan and do the onsen as a day trip instead.
+
+| Day | Plan | Rough cost |
+|---|---|---|
+| **Wed 25** | Land 15:30, immigration, shuttle to T1, Skymark ~19:00 to CTS, then JR to Sapporo. Late miso ramen in Susukino | ramen ¥1,000 |
+| **Thu 26** | **Sapporo Beer Museum** (free entry, tasting set ~¥1,000). Jingisukan (grilled lamb) at a Susukino shop like **Daruma**, instead of the pricey beer-garden buffet. **Odori Park White Illumination and Christmas market** are free to walk through (they usually start late Nov, so check dates). Night out in **Susukino**. Drink at konbini or a standing bar first, because bar prices add up | ¥4–6k |
+| **Fri 27** | **Otaru** by JR (~¥750 each way): canal, glassworks, the free-to-browse streets, and cheap conveyor-belt sushi. Add the **Nikka Yoichi distillery**, about 25 min further by JR. The tour is **free** but needs a reservation | ¥4–6k |
+| **Sat 28** | **Jozankei onsen** day trip by bus (~1h, ~¥800 each way). Soak in a day-use onsen for ~¥1,000–2,000, then walk the gorge. Back to Sapporo for Saturday night. Optional night view from the **Mt. Moiwa ropeway** (~¥2,100 return) | ¥4–6k |
+| **Sun 29** | Morning in Sapporo (Nijo market for a look, Tanukikoji arcade for anime shops). JR to the airport, which has a ramen street and the Doraemon Sky Park, both free to wander. **Fly around 12:00–14:00**, not later, because snow can delay flights. You'll be in Tokyo by evening | ¥2–3k |
+
+### Money savers
+- **Seicomart**, Hokkaido's own konbini, sells hot meals from its "Hot Chef" counter for a few hundred yen. It's the budget traveller's best friend.
+- Eat big at lunch, since lunch sets are much cheaper than dinner. Drink konbini beer before going out.
+- Pay for trains and buses with Suica. It works in Sapporo too.
+- Pack warm clothes and **shoes with grip** so you don't end up buying them there.
+
+### Rough total for the 4 days
+| | ¥ |
 |---|---|
-| **Wed 25** | Land 15:30 at Terminal 3 and allow ~1h for immigration. Take the **free shuttle bus to domestic Terminal 1 or 2** (~15 min). Book a flight **HND → New Chitose (CTS) departing ~18:30–19:30** (1h35m, on JAL, ANA, AirDo or Skymark). Then the **JR Rapid Airport** train to Sapporo (~40 min, ~¥1,150). Late **miso ramen** at Ramen Yokocho in **Susukino** |
-| **Thu 26** | **Sapporo Beer Museum**, then all-you-can-eat **jingisukan** (grilled lamb) with all-you-can-drink beer at the **Sapporo Beer Garden**. In the evening, see the **White Illumination** and the **Munich Christmas Market** in **Odori Park** (these usually start in late November, so check dates). Take the **Mt. Moiwa ropeway** for one of Japan's best night views, then a night out in **Susukino**, the biggest nightlife district north of Tokyo |
-| **Fri 27** | **Otaru** day trip (~45 min by train): the canal, glassworks, the music box museum, the best sushi of your life, and **Otaru Beer**. Add the **Nikka Yoichi whisky distillery** (15 min further, reserve the tour). Back to Sapporo. Anime shopping in **Tanukikoji** |
-| **Sat 28** | Limited express to **Noboribetsu** (~1h10). See **Jigokudani ("Hell Valley")** with its steaming volcanic vents, then a **ryokan night** with an outdoor onsen and a kaiseki dinner. Soaking in hot water while it snows is a highlight |
-| **Sun 29** | Morning onsen, then train to **New Chitose** (~50 min). At the airport there's the **Ramen Dojo**, **Royce chocolate factory** and **Doraemon Sky Park**. **Fly ~12:00–13:00** and land at Haneda ~14:30, so you're in Tokyo by ~16:00. Leave a buffer, because snow can delay flights |
-
-**Book now:**
-- **Flights.** The HND ↔ CTS route is one of the busiest in the world. It's about ¥10–25k one way if booked early.
-- **Avoid budget airlines that land at Narita.** Narita is far from central Tokyo. Check the bag fees too.
-- **Noboribetsu ryokan.** Popular ones fill up.
-- **Nikka Yoichi tour.** Needs a reservation.
-
-**Pack:**
-- A warm coat, gloves and a hat.
-- **Shoes with grip.** Sapporo sidewalks turn icy.
-
-**Why Hokkaido over the Kyoto/Osaka option:**
-- Better for **beer, food, snow and onsen**.
-- Weaker for anime and tech. Save those for Tokyo from the 29th.
-- You'll miss Kyoto's peak autumn leaves.
+| Flights (return, booked early) | 15,000–30,000 |
+| Hostel × 4 nights | 10,000–18,000 |
+| Food and drinks | 15,000–20,000 |
+| Local transport and activities | 6,000–10,000 |
+| **Total** | **~46,000–78,000** (about US$300–520) |
 
 ---
 
