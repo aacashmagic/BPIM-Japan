@@ -50,7 +50,7 @@ Haneda ──20 min──▶ YOKOHAMA (1 night) ──25 min──▶ KAMAKURA /
   - **Hase-dera** (¥400 · ₹240), with **autumn leaves at their peak** and ocean views.
   - Street food on **Komachi-dori**.
 - Around midday, **JR to Odawara → Hakone Tozan line** (~1.5h, ~¥1,500 · ₹920).
-- Check into a **hostel with its own onsen** and soak for the evening. This is the most relaxing night of the trip.
+- Check into a place with a **private, lockable onsen bath** (*kashikiri-buro*) and soak for the evening. This is the most relaxing night of the trip. **With tattoos, only book a place that confirms tattoos are OK** (see the tattoo section below).
 
 ### Sun 29 · Hakone morning → Tokyo
 - Morning onsen. If it's clear, take a short trip to **Lake Ashi** for Fuji views (or just stay in the bath).
@@ -65,7 +65,7 @@ Haneda ──20 min──▶ YOKOHAMA (1 night) ──25 min──▶ KAMAKURA /
 | Wed 25 | Yokohama (Sakuragicho/Kannai) | Hostel or capsule | 3,000–5,000 | 1,800–3,100 |
 | Thu 26 | Kamakura / Enoshima | Hostel or guesthouse | 3,500–5,500 | 2,100–3,400 |
 | Fri 27 | Kamakura / Enoshima | Same place, no repacking | 3,500–5,500 | 2,100–3,400 |
-| Sat 28 | Hakone | **Hostel with onsen** (book early; Saturday) | 4,000–6,500 | 2,400–4,000 |
+| Sat 28 | Hakone | **Private onsen bath, tattoo-OK confirmed** (book early; Saturday) | 4,000–6,500 | 2,400–4,000 |
 
 ## Budget
 | | ¥ | ₹ |
@@ -76,6 +76,23 @@ Haneda ──20 min──▶ YOKOHAMA (1 night) ──25 min──▶ KAMAKURA /
 | Museums, temples, onsen, extras | 3,000–5,000 | 1,800–3,100 |
 | Luggage forwarding | 2,500–3,500 | 1,500–2,100 |
 | **Total** | **~38,500–55,500** | **~₹23,500–34,000** |
+
+## 🖋️ Tattoos & onsen
+Many public onsen, gyms and pools in Japan still **refuse entry to anyone with visible tattoos**. Walking around, beaches,
+temples, bars and hostels are all fine. Only bathing places matter.
+
+**What works:**
+1. **Private baths (*kashikiri-buro*).** You book the bath just for yourself, so tattoos aren't an issue. Many Hakone
+   guesthouses and ryokan have them. Filter by "private bath" on Booking.com or Agoda and **message the place first to confirm**.
+2. **Tattoo-friendly onsen.** Check the **Tattoo Friendly** site (tattoo-friendly.jp) or Google "Hakone tattoo friendly onsen".
+   Rules change, so double-check on the place's own website.
+3. **Cover patches.** If your tattoo is small (palm-sized or less), many onsen accept it covered with a skin-coloured
+   sticker. Buy these at Don Quijote or a drugstore, or bring them from India. Large or multiple tattoos can't be covered this way.
+4. **Ashiyu (foot baths)** around Hakone are free, and tattoos don't matter.
+5. **City sento** (local public baths) are often more relaxed about tattoos than resort onsen.
+
+**Ask before paying:** "タトゥーは大丈夫ですか?" (*Tatū wa daijōbu desu ka?* = "Are tattoos OK?"). Show it on your phone.
+If they say no, accept it politely. Don't argue or try to hide the tattoo.
 
 ## Pack
 - A light jacket or hoodie.
