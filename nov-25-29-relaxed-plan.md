@@ -65,17 +65,17 @@ Haneda ──20 min──▶ YOKOHAMA (1 night) ──25 min──▶ KAMAKURA /
 | Wed 25 | Yokohama (Sakuragicho/Kannai) | Hostel or capsule | 3,000–5,000 | 1,800–3,100 |
 | Thu 26 | Kamakura / Enoshima | Hostel or guesthouse | 3,500–5,500 | 2,100–3,400 |
 | Fri 27 | Kamakura / Enoshima | Same place, no repacking | 3,500–5,500 | 2,100–3,400 |
-| Sat 28 | Hakone | **Private onsen bath, tattoo-OK confirmed** (book early; Saturday) | 4,000–6,500 | 2,400–4,000 |
+| Sat 28 | Hakone | **Private onsen bath, tattoo-OK confirmed** (book early; Saturday) | 4,000–10,000 | 2,400–6,100 |
 
 ## Budget
 | | ¥ | ₹ |
 |---|---|---|
 | Transport (all legs + Enoden pass) | 5,000–6,500 | 3,100–4,000 |
-| Accommodation (4 nights) | 14,000–22,500 | 8,500–13,700 |
+| Accommodation (4 nights) | 14,000–26,000 | 8,500–15,900 |
 | Food & drinks (~¥3–4k/day) | 14,000–18,000 | 8,500–11,000 |
 | Museums, temples, onsen, extras | 3,000–5,000 | 1,800–3,100 |
 | Luggage forwarding | 2,500–3,500 | 1,500–2,100 |
-| **Total** | **~38,500–55,500** | **~₹23,500–34,000** |
+| **Total** | **~38,500–59,000** | **~₹23,500–36,000** |
 
 ## 🖋️ Tattoos & onsen
 Many public onsen, gyms and pools in Japan still **refuse entry to anyone with visible tattoos**. Walking around, beaches,
